@@ -64,7 +64,7 @@ To ensure you have the latest changes from the remote repository, you should reg
 https://drive.google.com/file/d/1a61rPqqlBK6Cq45SJLy583zhRGpurOy-/view
 <br>
 
-## A video showing how to work within the Team using Github
+## A video showing how to do the previous steps
    Follow the link: https://drive.google.com/file/d/1YC1SD6vRJBfR0ia0PL_CckfTEUv53uAf/view?usp=drive_link
   
 > **Note**
